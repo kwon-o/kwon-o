@@ -3,6 +3,7 @@
 <h1 align="left">Hi 👋, I'm Kwon Ohjun</h1>
 
 <h3 align="left">🔭 Experience</h3>
+
  * Technopro · IT Corporation - Dispatch Labor ( 2019 ~ )
     - NEC Solution Innovators, Ltd. - Oracle Cloud, Database Engineer ( 2019 ~ 2020 )
     - KYOWA EXEO Corporation - Mobile 5GC development ( 2021 ~ )
