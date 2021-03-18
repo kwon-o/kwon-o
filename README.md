@@ -7,10 +7,8 @@
 
 <h3 align="center">GitHub statistics </h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwon-o&show_icons=true&locale=en&layout=compact" alt="kwon-o" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kwon-o&" alt="kwon-o" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-o)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
