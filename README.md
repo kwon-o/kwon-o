@@ -2,12 +2,34 @@
 
 <h1 align="left">Hi 👋, I'm Kwon Ohjun</h1>
 
+<h3 align="left">🌱 Education</h3>
+
+ * Sungil Information High School ( 2007 ~ 2010 )
+    - Department of Digital Information 
+    - Computer Graphics Circles
+ * Yonsei University ( 2011 ~ 2017 )
+    - Bachelor of Science in Information Statistics
+    - Bachelor of Science in Biology
+
 <h3 align="left">🔭 Experience</h3>
 
  * Technopro · IT Corporation - Dispatch Labor ( 2019 ~ )
     - NEC Solution Innovators, Ltd. - Oracle Cloud, Database Engineer ( 2019 ~ 2020 )
     - KYOWA EXEO Corporation - Mobile 5GC development ( 2021 ~ )
 
+<h3 align="left">👯 Experience</h3>
+
+ * Oracle Property Graph Query Language environment for use in marketing ( 2019 ~ 2020 )
+    - Construction of Graph Database server and client ( Oracle Cloud, Oracle Databaase )
+    - Performance evaluation ( Java )
+    - Writing advanced graph queries - 30% Improved performance compared to RDBS ( PGQL )
+    - Sample data creation - 200% faster than before ( python )
+ * Oracle cloud environment automatic construction using Terraform ( 2020 )
+    - Automation complet by minimizing input of human ( Terraform, Go lang )
+ * Development of automatic stock investment program ( 2021 ~ )
+    - Time series data analysis ( python )
+    - (Developing) Sentiment analysis of stock bulletin board using AI ( TensorFlow, python )
+ 
 <h3 align="left">🌱 Certificate</h3>
 
  * Engineer Information Processing (한:정보처리기사, 日:応用情報技術者) (2019)
