@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Kwon Ohjun</h1>
 
-<h3 align="left">🌱 Education</h3>
+<h2 align="left">🌱 Education</h3>
 
  * Sungil Information High School ( 2007 ~ 2010 )
     - Department of Digital Information 
@@ -11,13 +11,13 @@
     - Bachelor of Science in Information Statistics
     - Bachelor of Science in Biology
 
-<h3 align="left">🔭 Experience</h3>
+<h2 align="left">🔭 Experience</h3>
 
  * Technopro · IT Corporation - Dispatch Labor ( 2019 ~ )
     - NEC Solution Innovators, Ltd. - Oracle Cloud, Database Engineer ( 2019 ~ 2020 )
     - KYOWA EXEO Corporation - Mobile 5GC development ( 2021 ~ )
 
-<h3 align="left">👯 Projects</h3>
+<h2 align="left">👯 Projects</h3>
 
  * Oracle Property Graph Query Language environment for use in marketing ( 2019 ~ 2020 )
     - Construction of Graph Database server and client ( Oracle Cloud, Oracle Databaase )
@@ -30,16 +30,16 @@
     - Time series data analysis ( python )
     - (Developing) Sentiment analysis of stock bulletin board using AI ( TensorFlow, python )
  
-<h3 align="left">🌱 Certificate</h3>
+<h2 align="left">🌱 Certificate</h3>
 
  * Engineer Information Processing (한:정보처리기사, 日:応用情報技術者) (2019)
  * Python 3 エンジニア認定基礎試験 (2021)
  * TensorFlow Developer Certificate (2021)
 
-<h3 align="left">📫 Languages and Tools</h3>
+<h2 align="left">📫 Languages and Tools</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<h3 align="left">✨ GitHub Status </h3>
+<h2 align="left">✨ GitHub Status </h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwon-o&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
