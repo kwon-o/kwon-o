@@ -27,7 +27,7 @@
  * Oracle cloud environment automatic construction using Terraform ( 2020 )
     - Automation complet by minimizing input of human ( Terraform, Go lang )
  * Development of automatic stock investment program ( 2021 ~ )
-    - Time series data analysis ( python )
+    - Time series data analysis ( python, MySql )
     - (Developing) Sentiment analysis of stock bulletin board using AI ( TensorFlow, python )
  
 <h2 align="left">🌱 Certificate</h3>
