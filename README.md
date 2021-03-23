@@ -17,7 +17,7 @@
     - NEC Solution Innovators, Ltd. - Oracle Cloud, Database Engineer ( 2019 ~ 2020 )
     - KYOWA EXEO Corporation - Mobile 5GC development ( 2021 ~ )
 
-<h3 align="left">👯 Experience</h3>
+<h3 align="left">👯 Projects</h3>
 
  * Oracle Property Graph Query Language environment for use in marketing ( 2019 ~ 2020 )
     - Construction of Graph Database server and client ( Oracle Cloud, Oracle Databaase )
