@@ -14,7 +14,7 @@
     - Construction of Graph Database server and client ( Oracle Cloud, Oracle Databaase )
     - Performance evaluation ( Java )
     - Writing advanced graph queries - 30% Improved performance compared to RDBS ( PGQL )
-    - Sample data creation - 200% faster than before ( python )
+    - Sample data creation - 200% faster than before ( python ) ![](https://img.shields.io/badge/python--blue)
  * Oracle cloud environment automatic construction using Terraform ( 2020 )
     - Automation complet by minimizing input of human ( Terraform, Go lang )
  * Development of automatic stock investment program ( 2021 ~ )
