@@ -11,12 +11,12 @@
 <h2 align="left">👯 Projects</h3>
 
  * Oracle Property Graph Query Language environment for use in marketing ( 2019 ~ 2020 )
-    - Construction of Graph Database server and client ![](https://img.shields.io/badge/Oracle Database--9cf) ![](https://img.shields.io/badge/Oracle Cloud--red) 
+    - Construction of Graph Database server and client ![](https://img.shields.io/badge/Oracle_Database--9cf) ![](https://img.shields.io/badge/Oracle_Cloud--red) 
     - Performance evaluation ![](https://img.shields.io/badge/java--blue)
     - Writing advanced graph queries - 30% Improved performance compared to RDBS ![](https://img.shields.io/badge/PGQL--9cf) 
     - Sample data creation - 200% faster than before ![](https://img.shields.io/badge/python--blue)
  * Oracle cloud environment automatic construction using Terraform ( 2020 )
-    - Automation complet by minimizing input of human ![](https://img.shields.io/badge/Go lang--blue) ![](https://img.shields.io/badge/terraform--orange)  
+    - Automation complet by minimizing input of human ![](https://img.shields.io/badge/Go_lang--blue) ![](https://img.shields.io/badge/terraform--orange)  
  * Development of automatic stock investment program ( 2021 ~ )
     - Time series data analysis ![](https://img.shields.io/badge/python--blue) ![](https://img.shields.io/badge/MySql--9cf) 
     - (Developing) Sentiment analysis of stock bulletin board using AI ![](https://img.shields.io/badge/python--blue) ![](https://img.shields.io/badge/Tensorflow--orange)
