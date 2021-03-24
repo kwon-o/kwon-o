@@ -10,16 +10,18 @@
 
 <h2 align="left">👯 Projects</h3>
 
+[![Anurag's GitHub stats]
+
  * Oracle Property Graph Query Language environment for use in marketing ( 2019 ~ 2020 )
-    - Construction of Graph Database server and client ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Database&color=yellow&message='') ![](https://img.shields.io/badge/Oracle_Cloud--red) 
-    - Performance evaluation ![](https://img.shields.io/badge/java--blue)
-    - Writing advanced graph queries - 30% Improved performance compared to RDBS ![](https://img.shields.io/badge/PGQL--9cf) 
-    - Sample data creation - 200% faster than before ![](https://img.shields.io/badge/python--blue)
+    - Construction of Graph Database server and client ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Database&color=yellow&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Cloud&color=red&message=&nbsp;) 
+    - Performance evaluation ![](https://img.shields.io/static/v1?style=plastic&logo=java&label=JAVA&color=blue&message=&nbsp;)
+    - Writing advanced graph queries - 30% Improved performance compared to RDBS ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=PGQL&color=yellow&message=&nbsp;) 
+    - Sample data creation - 200% faster than before ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;)
  * Oracle cloud environment automatic construction using Terraform ( 2020 )
-    - Automation complet by minimizing input of human ![](https://img.shields.io/badge/Go_lang--blue) ![](https://img.shields.io/badge/terraform--orange)  
+    - Automation complet by minimizing input of human ![](https://img.shields.io/static/v1?style=plastic&logo=go&label=Go_lang&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=terraform&label=terraform&color=orange&message=&nbsp;)  
  * Development of automatic stock investment program ( 2021 ~ )
-    - Time series data analysis ![](https://img.shields.io/badge/python--blue) ![](https://img.shields.io/badge/MySql--9cf) 
-    - (Developing) Sentiment analysis of stock bulletin board using AI ![](https://img.shields.io/badge/python--blue) ![](https://img.shields.io/badge/Tensorflow--orange)
+    - Time series data analysis ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=mysql&label=Mysql&color=yellow&message=&nbsp;) 
+    - (Developing) Sentiment analysis of stock bulletin board using AI ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=tensorflow&label=Tensorflow&color=orange&message=&nbsp;)
 
 <h2 align="left">🌱 Education</h3>
 
