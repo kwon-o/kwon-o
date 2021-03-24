@@ -6,7 +6,7 @@
 
  * Technopro · IT Corporation - Dispatch Labor ( 2019 ~ )
     - NEC Solution Innovators, Ltd. - Oracle Cloud, Database Engineer ( 2019 ~ 2020 )
-    - KYOWA EXEO Corporation - Mobile 5GC development ( 2021 ~ )
+    - KYOWA EXEO Corporation - Mobile 5G Core development ( 2021 ~ )
 
 <h2 align="left">🖥️ Projects</h3>
 
