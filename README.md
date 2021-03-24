@@ -2,15 +2,6 @@
 
 <h1 align="left">Hi 👋, I'm Kwon Ohjun</h1>
 
-<h2 align="left">🌱 Education</h3>
-
- * Sungil Information High School ( 2007 ~ 2010 )
-    - Department of Digital Information 
-    - Computer Graphics Circles
- * Yonsei University ( 2011 ~ 2017 )
-    - Bachelor of Science in Information Statistics
-    - Bachelor of Science in Biology
-
 <h2 align="left">🔭 Experience</h3>
 
  * Technopro · IT Corporation - Dispatch Labor ( 2019 ~ )
@@ -29,6 +20,17 @@
  * Development of automatic stock investment program ( 2021 ~ )
     - Time series data analysis ( python, MySql )
     - (Developing) Sentiment analysis of stock bulletin board using AI ( TensorFlow, python )
+
+<h2 align="left">🌱 Education</h3>
+
+ * Sungil Information High School ( 2007 ~ 2010 )
+    - Department of Digital Information 
+    - Computer Graphics Circles
+ * Yonsei University ( 2011 ~ 2017 )
+    - Bachelor of Science in Information Statistics
+    - Bachelor of Science in Biology
+ * Thejoeun Academy ( 2018 )
+    - Completion of Java developer for Big data analysis
  
 <h2 align="left">🌱 Certificate</h3>
 
