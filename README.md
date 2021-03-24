@@ -10,8 +10,6 @@
 
 <h2 align="left">👯 Projects</h3>
 
-[![Anurag's GitHub stats]
-
  * Oracle Property Graph Query Language environment for use in marketing ( 2019 ~ 2020 )
     - Construction of Graph Database server and client ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Database&color=yellow&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Cloud&color=red&message=&nbsp;) 
     - Performance evaluation ![](https://img.shields.io/static/v1?style=plastic&logo=java&label=JAVA&color=blue&message=&nbsp;)
