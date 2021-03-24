@@ -11,7 +11,7 @@
 <h2 align="left">👯 Projects</h3>
 
  * Oracle Property Graph Query Language environment for use in marketing ( 2019 ~ 2020 )
-    - Construction of Graph Database server and client ![](https://img.shields.io/badge/Oracle_Database--9cf) ![](https://img.shields.io/badge/Oracle_Cloud--red) 
+    - Construction of Graph Database server and client ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Database&color=yellow&message='') ![](https://img.shields.io/badge/Oracle_Cloud--red) 
     - Performance evaluation ![](https://img.shields.io/badge/java--blue)
     - Writing advanced graph queries - 30% Improved performance compared to RDBS ![](https://img.shields.io/badge/PGQL--9cf) 
     - Sample data creation - 200% faster than before ![](https://img.shields.io/badge/python--blue)
