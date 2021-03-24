@@ -2,13 +2,13 @@
 
 <h1 align="left">Hi 👋, I'm Kwon Ohjun</h1>
 
-<h2 align="left">🔭 Experience</h3>
+<h2 align="left">💼 Experience</h3>
 
  * Technopro · IT Corporation - Dispatch Labor ( 2019 ~ )
     - NEC Solution Innovators, Ltd. - Oracle Cloud, Database Engineer ( 2019 ~ 2020 )
     - KYOWA EXEO Corporation - Mobile 5GC development ( 2021 ~ )
 
-<h2 align="left">👯 Projects</h3>
+<h2 align="left">🖥️ Projects</h3>
 
  * Oracle Property Graph Query Language environment for use in marketing ( 2019 ~ 2020 )
     - Construction of Graph Database server and client ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Database&color=yellow&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Cloud&color=red&message=&nbsp;) 
@@ -32,7 +32,7 @@
  * Thejoeun Academy ( 2018 )
     - Completion of Java developer for Big data analysis
  
-<h2 align="left">🌱 Certificate</h3>
+<h2 align="left">👍 Certificate</h3>
 
  * Engineer Information Processing (한:정보처리기사, 日:応用情報技術者) (2019)
  * Python 3 エンジニア認定基礎試験 (2021)
