@@ -11,15 +11,17 @@
 <h2 align="left">🖥️ Projects</h3>
 
  * Oracle Property Graph Query Language environment for use in marketing ( 2019 ~ 2020 )
-    - Construction of Graph Database server and client ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Database&color=yellow&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Cloud&color=red&message=&nbsp;) 
+    - Construction of Graph Database server and client ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle&nbsp;Database&color=yellow&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle&nbsp;Cloud&color=red&message=&nbsp;) 
     - Performance evaluation ![](https://img.shields.io/static/v1?style=plastic&logo=java&label=JAVA&color=blue&message=&nbsp;)
     - Writing advanced graph queries - 30% Improved performance compared to RDBS ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=PGQL&color=yellow&message=&nbsp;) 
     - Sample data creation - 200% faster than before ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;)
  * Oracle cloud environment automatic construction using Terraform ( 2020 )
-    - Automation complet by minimizing input of human ![](https://img.shields.io/static/v1?style=plastic&logo=go&label=Go_lang&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=terraform&label=terraform&color=orange&message=&nbsp;)  ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Cloud&color=red&message=&nbsp;) 
+    - Automation complet by minimizing input of human ![](https://img.shields.io/static/v1?style=plastic&logo=go&label=Go&nbsp;lang&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=terraform&label=terraform&color=orange&message=&nbsp;)  ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Cloud&color=red&message=&nbsp;) 
  * Development of automatic stock investment program ( 2021 ~ )
     - Time series data analysis ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=mysql&label=Mysql&color=yellow&message=&nbsp;) 
     - (Developing) Sentiment analysis of stock bulletin board using AI ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=tensorflow&label=Tensorflow&color=orange&message=&nbsp;)
+ * Build Network Functions of Mobile 5G Core ( 2021 ~ )
+    - Pseudo call script writing and testing ![](https://img.shields.io/static/v1?style=plastic&logo=html&label=html&color=blue&message=&nbsp;)
 
 <h2 align="left">🌱 Education</h3>
 
@@ -40,13 +42,13 @@
 
 <h2 align="left">📫 Languages and Tools</h3>
 
-![](https://img.shields.io/static/v1?style=flat-square&logo=python&label=python&color=blue&message=&starf;&starf;&starf;&starf;&starf;) ![](https://img.shields.io/static/v1?style=flat-square&logo=java&label=JAVA&color=blue&message=&starf;&starf;&starf;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=javascript&label=javascript&color=blue&message=&starf;&starf;&star;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=html&label=html&color=blue&message=&starf;&starf;&starf;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=css&label=css&color=blue&message=&starf;&starf;&starf;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=go&label=Go_lang&color=blue&message=&starf;&star;&star;&star;&star;)
+![](https://img.shields.io/static/v1?style=flat-square&logo=python&label=python&color=blue&message=&starf;&starf;&starf;&starf;&starf;) ![](https://img.shields.io/static/v1?style=flat-square&logo=java&label=JAVA&color=blue&message=&starf;&starf;&starf;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=javascript&label=javascript&color=blue&message=&starf;&starf;&star;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=html&label=html&color=blue&message=&starf;&starf;&starf;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=css&label=css&color=blue&message=&starf;&starf;&starf;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=go&label=Go&nbsp;lang&color=blue&message=&starf;&star;&star;&star;&star;)
 
-![](https://img.shields.io/static/v1?style=flat-square&logo=oracle&label=Oracle_Database&color=yellow&message=&starf;&starf;&starf;&starf;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=mysql&label=MySql&color=yellow&message=&starf;&starf;&starf;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=mongodb&label=MongoDB&color=yellow&message=&starf;&starf;&star;&star;&star;)
+![](https://img.shields.io/static/v1?style=flat-square&logo=oracle&label=Oracle&nbsp;Database&color=yellow&message=&starf;&starf;&starf;&starf;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=mysql&label=MySql&color=yellow&message=&starf;&starf;&starf;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=mongodb&label=MongoDB&color=yellow&message=&starf;&starf;&star;&star;&star;)
 
-![](https://img.shields.io/static/v1?style=flat-square&logo=terraform&label=terraform&color=orange&message=&starf;&starf;&star;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=tensorflow&label=Tensorflow&color=orange&message=&starf;&starf;&star;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=react&label=React&color=orange&message=&starf;&starf;&star;&star;&star;)
+![](https://img.shields.io/static/v1?style=flat-square&logo=terraform&label=terraform&color=orange&message=&starf;&starf;&star;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=tensorflow&label=Tensorflow&color=orange&message=&starf;&starf;&starf;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=react&label=React&color=orange&message=&starf;&starf;&star;&star;&star;)
 
-![](https://img.shields.io/static/v1?style=flat-square&logo=oracle&label=Oracle_Cloud&color=red&message=&starf;&starf;&starf;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=aws&label=AWS&color=red&message=&starf;&starf;&star;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=linux&label=Linux&color=red&message=&starf;&starf;&starf;&star;&star;)
+![](https://img.shields.io/static/v1?style=flat-square&logo=oracle&label=Oracle&nbsp;Cloud&color=red&message=&starf;&starf;&starf;&starf;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=aws&label=AWS&color=red&message=&starf;&starf;&star;&star;&star;) ![](https://img.shields.io/static/v1?style=flat-square&logo=linux&label=Linux&color=red&message=&starf;&starf;&starf;&star;&star;)
 
 
 
@@ -57,17 +59,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-o&layout=compact&card_width=445&theme=slateorange)](https://github.com/kwon-o)
 
-<!--
-**kwon-o/kwon-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
