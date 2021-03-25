@@ -16,7 +16,7 @@
     - Writing advanced graph queries - 30% Improved performance compared to RDBS ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=PGQL&color=yellow&message=&nbsp;) 
     - Sample data creation - 200% faster than before ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;)
  * Oracle cloud environment automatic construction using Terraform ( 2020 )
-    - Automation complet by minimizing input of human ![](https://img.shields.io/static/v1?style=plastic&logo=go&label=Go&nbsp;lang&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=terraform&label=terraform&color=orange&message=&nbsp;)  ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle_Cloud&color=red&message=&nbsp;) 
+    - Automation complet by minimizing input of human ![](https://img.shields.io/static/v1?style=plastic&logo=go&label=Go&nbsp;lang&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=terraform&label=terraform&color=orange&message=&nbsp;)  ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle&nbsp;Cloud&color=red&message=&nbsp;) 
  * Development of automatic stock investment program ( 2021 ~ )
     - Time series data analysis ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=mysql&label=Mysql&color=yellow&message=&nbsp;) 
     - (Developing) Sentiment analysis of stock bulletin board using AI ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=tensorflow&label=Tensorflow&color=orange&message=&nbsp;)
