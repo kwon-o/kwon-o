@@ -5,8 +5,8 @@
 <h2 align="left">💼 Experience</h3>
 
  * Technopro · IT Corporation - Dispatch Labor ( 2019 ~ )
-    - NEC Solution Innovators, Ltd. - Oracle Cloud, Database Engineer ( 2019 ~ 2020 )
-    - KYOWA EXEO Corporation - Mobile 5G Core development ( 2021 ~ )
+    - NEC Solution Innovators - Oracle Cloud, Database Engineer ( 2019 ~ 2020 )
+    - NEC Communication Systems - Mobile 5G Core development ( 2021 ~ )
 
 <h2 align="left">🖥️ Projects</h3>
 
@@ -22,7 +22,7 @@
     - (Developing) Sentiment analysis of stock bulletin board using AI ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=tensorflow&label=Tensorflow&color=orange&message=&nbsp;)
  * Build Network Functions of Mobile 5G Core ( 2021 ~ )
     - Pseudo call script writing and testing ![](https://img.shields.io/static/v1?style=plastic&logo=html&label=html&color=blue&message=&nbsp;)
-    - Build 5GC Network Function ![](https://img.shields.io/static/v1?style=plastic&logo=openshift&label=OpenShift&color=orange&message=&nbsp;)
+    - Build 5GC Network Function ![](https://img.shields.io/static/v1?style=plastic&logo=openshift&label=OpenShift&color=orange&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=ansible&label=ansible&color=orange&message=&nbsp;)
 
 <h2 align="left">🌱 Education</h3>
 
