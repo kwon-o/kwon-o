@@ -7,7 +7,7 @@
  * Technopro · IT Corporation - Dispatch Labor ( 2019 ~ )
     - NEC Solution Innovators - Oracle Cloud, Database Engineer ( 2019 ~ 2020 )
     - NEC Communication Systems - Mobile 5G Core development ( 2021 ~ 2021.7 )
- * Umbersoll Japen - Python development, Raspberry Pi ( 2021.8 ~ )
+ * Umbersoll Japen - IoT development ( 2021.8 ~ )
 
 <h2 align="left">🖥️ Projects</h3>
 
