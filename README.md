@@ -18,10 +18,7 @@
     - Sample data creation - 200% faster than before ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;)
  * Oracle cloud environment automatic construction using Terraform ( 2020 )
     - Automation complet by minimizing input of human ![](https://img.shields.io/static/v1?style=plastic&logo=go&label=Go&nbsp;lang&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=terraform&label=terraform&color=orange&message=&nbsp;)  ![](https://img.shields.io/static/v1?style=plastic&logo=oracle&label=Oracle&nbsp;Cloud&color=red&message=&nbsp;) 
- * Development of automatic stock investment program ( 2021 ~ )
-    - Time series data analysis ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=mysql&label=Mysql&color=yellow&message=&nbsp;) 
-    - (Developing) Sentiment analysis of stock bulletin board using AI ![](https://img.shields.io/static/v1?style=plastic&logo=python&label=python&color=blue&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=tensorflow&label=Tensorflow&color=orange&message=&nbsp;)
- * Build Network Functions of Mobile 5G Core ( 2021 ~ )
+ * Build Network Functions of Mobile 5G Core ( 2021 )
     - Pseudo call script writing and testing ![](https://img.shields.io/static/v1?style=plastic&logo=http&label=HTTP&color=blue&message=&nbsp;)
     - Build 5GC Network Function ![](https://img.shields.io/static/v1?style=plastic&logo=openshift&label=OpenShift&color=orange&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=ansible&label=ansible&color=orange&message=&nbsp;) ![](https://img.shields.io/static/v1?style=plastic&logo=kubernetes&label=Kubernetes&color=orange&message=&nbsp;)
 
