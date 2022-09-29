@@ -4,9 +4,8 @@
 
 <h2 align="left">💼 Experience</h3>
 
- * Technopro · IT Corporation - Dispatch Labor ( 2019 ~ )
-    - NEC Solution Innovators - Oracle Cloud, Database Engineer ( 2019 ~ 2020 )
-    - NEC Communication Systems - Mobile 5G Core development ( 2021 ~ 2021.7 )
+ * NEC Solution Innovators - Oracle Cloud, Database Engineer ( 2019 ~ 2020 )
+ * NEC Communication Systems - Mobile 5G Core development ( 2021 ~ 2021.7 )
  * Umbersoll Japen - IoT development ( 2021.8 ~ )
 
 <h2 align="left">🖥️ Projects</h3>
